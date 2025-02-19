@@ -10,7 +10,7 @@ async def start(update, context):
     keyboard = [
         [InlineKeyboardButton(
             "Открыть приложение", 
-            web_app={'url': 'https://65e8-162-19-138-158.ngrok-free.app'}  # Используем HTTPS ссылку от ngrok
+            web_app={'url': 'https://3359-57-129-28-95.ngrok-free.app'}  
         )]
     ]
     
